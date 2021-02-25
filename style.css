@@ -2,3 +2,7 @@ h1 {
     font-size: 50px;
     color: tomato;
 }
+
+body {
+    font-family: serif;
+}
